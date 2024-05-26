@@ -47,18 +47,24 @@ Homepage link: https://staruml.io/
 
 - Deploying 'Migrations'
   - Contract address: 0x5E046183d781F77a1749C89DcBeCE5D73DF79dDe
+  - [Link Contract](https://sepolia.etherscan.io/address/0x5E046183d781F77a1749C89DcBeCE5D73DF79dDe)
 
 - Deploying 'FarmerRole'
   - Contract address: 0x92AEb66adBe79EEf9f3657FC403BD1eaD8BB4047
+  - [Link Contract](https://sepolia.etherscan.io/address/0x92AEb66adBe79EEf9f3657FC403BD1eaD8BB4047)
 
 - Deploying 'DistributorRole'
   - Contract address: 0x90FE35a1598a67d9E236AAE3270c1bdbd621Ea7A
+  - [Link Contract](https://sepolia.etherscan.io/address/0x90FE35a1598a67d9E236AAE3270c1bdbd621Ea7A)
 
 - Deploying 'RetailerRole'
   - Contract address: 0x1de48136EF57a264BBfb76a2A64e5BF88B8d385f
+  - [Link Contract](https://sepolia.etherscan.io/address/0x1de48136EF57a264BBfb76a2A64e5BF88B8d385f)
 
 - Deploying 'ConsumerRole'
   - Contract address: 0xAAfb6E646aff619c1d9C89aA1d1520f96b02EB5D
+  - [Link Contract](https://sepolia.etherscan.io/address/0xAAfb6E646aff619c1d9C89aA1d1520f96b02EB5D)
 
 - Deploying 'SupplyChain'
   - Contract address: 0xB2E9265A8546122260D7216f27275e39b9E0cD34
+  - [Link Contract](https://sepolia.etherscan.io/address/0xb2e9265a8546122260d7216f27275e39b9e0cd34)
