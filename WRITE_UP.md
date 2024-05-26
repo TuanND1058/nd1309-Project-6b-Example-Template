@@ -56,3 +56,9 @@ Homepage link: https://staruml.io/
 
 - Deploying 'RetailerRole'
   - Contract address: 0x1de48136EF57a264BBfb76a2A64e5BF88B8d385f
+
+- Deploying 'ConsumerRole'
+  - Contract address: 0xAAfb6E646aff619c1d9C89aA1d1520f96b02EB5D
+
+- Deploying 'SupplyChain'
+  - Contract address: 0xB2E9265A8546122260D7216f27275e39b9E0cD34
