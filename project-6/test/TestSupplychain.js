@@ -44,13 +44,12 @@ contract('SupplyChain', function(accounts) {
     // 1st Test
     it("Testing smart contract function harvestItem() that allows a farmer to harvest coffee", async() => {
         const supplyChain = await SupplyChain.deployed()
-/*
+
         // Declare and Initialize a variable for event
         var eventEmitted = false
 
         // Watch the emitted event Harvested()
-        var event = supplyChain.Harvested()
-        await event.watch((err, res) => {
+        supplyChain.Harvested((err, res) => {
             eventEmitted = true
         })
 
@@ -72,7 +71,6 @@ contract('SupplyChain', function(accounts) {
         assert.equal(resultBufferOne[7], originFarmLongitude, 'Error: Missing or Invalid originFarmLongitude')
         assert.equal(resultBufferTwo[5], 0, 'Error: Invalid item State')
         assert.equal(eventEmitted, true, 'Invalid event emitted')
-*/
     })
 
     // 2nd Test
